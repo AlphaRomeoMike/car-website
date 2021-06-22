@@ -1,10 +1,4 @@
-<!doctype html>
-<html class="no-js" lang="zxx">
-
 @include('shared.head')
-
-<body>
-
 <!-- Body main wrapper start -->
 <div class="body-wrapper">
 
@@ -42,6 +36,3 @@
 </div>
 <!-- Body main wrapper end -->
 @include('shared.scripts')
-  
-</body>
-</html>
